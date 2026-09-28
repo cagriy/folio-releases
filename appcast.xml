@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.0</title>
+      <sparkle:version>0.4.0</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Shelf over the Dock: the shelf opens from the bottom edge of the screen, on by default; turn it off in Settings.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 16:14:14 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.0/Folio-0.4.0.dmg" sparkle:edSignature="hGc1gZi/4iY0g3yXp7yFNdy9rI3ClsxbCYwQbvVLS7BcFJ20ji1xXEV8ITRR/56zH9PK43bRKauDpClSKg33Dg==" length="5955322" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.3.1</title>
       <sparkle:version>0.3.1</sparkle:version>
       <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
