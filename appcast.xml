@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.1</title>
+      <sparkle:version>0.4.1</sparkle:version>
+      <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Shelf search no longer blanks the shelf on each keystroke: cards stay until new results arrive, and the selection stays while the matches are unchanged. Return and number keys wait for the new results.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 16:51:44 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.1/Folio-0.4.1.dmg" sparkle:edSignature="6pKoiw14dzq+57DBOqua1Q2VgrxWOaeCde9vcLoJjgt9NT3v7Fa9dXPXYTfkNX7ptzAHYsaCEDwjEMiPAKFpBw==" length="5970668" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.0</title>
       <sparkle:version>0.4.0</sparkle:version>
       <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
