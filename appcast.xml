@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.3.1</title>
+      <sparkle:version>0.3.1</sparkle:version>
+      <sparkle:shortVersionString>0.3.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Shelf opacity in Settings; fades the shelf background, not the cards.&lt;/li&gt;&lt;li&gt;Optional shelf status bar (app name, sync and capture status, key hints), off by default; errors still show.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Number keys 1–9 paste the matching card; ⌘1–9 still works. Cards show the plain number.&lt;/li&gt;&lt;li&gt;Settings opens beside the shelf instead of closing it, so changes show as they are made; the opening shortcut closes Settings.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 13:51:57 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.3.1/Folio-0.3.1.dmg" sparkle:edSignature="eBMO40Q0sW6SMQEByrOiF1n0X1tpdd1tUZOGChiktD8ikMh+94v3T5GUk0Y6OmMRIfogWO7SagUExXKeHAgZBA==" length="5949195" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.3.0</title>
       <sparkle:version>0.3.0</sparkle:version>
       <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
