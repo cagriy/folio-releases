@@ -4,5 +4,19 @@
     <title>Folio</title>
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>Folio 0.3.0</title>
+      <sparkle:version>0.3.0</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Encrypted iCloud sync between Macs: set up with a once-shown recovery code, key enrolment through iCloud Keychain, sync status in Settings, the shelf footer and the menu, Sync now.&lt;/li&gt;&lt;li&gt;Developer-signed builds (Hardened Runtime) on CloudKit's Production environment.&lt;/li&gt;&lt;li&gt;Automatic updates: the app checks the public releases feed daily and offers new versions; *Check for Updates…* in the status menu checks now.&lt;/li&gt;&lt;li&gt;Releases are built and published by GitHub Actions: pushing the &lt;code&gt;vX.Y.Z&lt;/code&gt; tag tests, builds a notarized Developer ID DMG, publishes it and updates the appcast; a dry-run dispatch proves the pipeline without publishing.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Renamed to Folio: the app bundle is &lt;code&gt;Folio.app&lt;/code&gt;, the repository &lt;code&gt;cagriy/folio&lt;/code&gt;, the update feed &lt;code&gt;cagriy/folio-releases&lt;/code&gt;. The bundle identifier, data folder, Keychain items and CloudKit zone are unchanged, so an existing library carries over.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Settings hides granted permission requests and updates permission status live.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 13:31:09 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.3.0/Folio-0.3.0.dmg" sparkle:edSignature="wjFFE90uypVktbhLBko3xsagjfJDKnretNbap13B2alxl2ahuYmO/dEbFiruq43CcB2yh/jhKy4UEeF1fuOWAA==" length="5929462" type="application/octet-stream" />
+    </item>
   </channel>
 </rss>
