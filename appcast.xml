@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.2</title>
+      <sparkle:version>0.4.2</sparkle:version>
+      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Sync no longer stalls when another Mac changed the same record first: the conflict is merged and the waiting changes upload. *Sync now* no longer waits out the retry delay.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Mon, 28 Sep 2026 17:35:55 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.2/Folio-0.4.2.dmg" sparkle:edSignature="KD+zXvIDIQ+O00VzslqmKdszZJ3l3YkymJOWMVIQGKAjXebon3RezvgvnnXvSt2aFyxPjUm/7kiQ3eqdbRPWBw==" length="5971811" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.1</title>
       <sparkle:version>0.4.1</sparkle:version>
       <sparkle:shortVersionString>0.4.1</sparkle:shortVersionString>
