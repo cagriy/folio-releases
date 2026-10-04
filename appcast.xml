@@ -5,6 +5,20 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.3</title>
+      <sparkle:version>0.4.3</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;⌘C copies the selected clip without pasting; the shelf closes and focus returns to the previous app. *Copy* is also in the card's context menu.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Text cards show the lines after the title and fill the card, compact cards included; the first line is no longer repeated.&lt;/li&gt;&lt;li&gt;Settings explains what to do when Accessibility is on in System Settings but Folio still cannot paste: an entry left by an earlier build must be removed first.&lt;/li&gt;&lt;li&gt;Preview is a Quick Look-style window, two thirds of the screen, with no buttons or zoom. Space, Esc or a click elsewhere closes it; a link's address is clickable.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Opening the preview no longer pushes the shelf up.&lt;/li&gt;&lt;li&gt;The shelf opens on the newest clip; one copied while it was hidden no longer leaves the selection on an older card.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Sun, 04 Oct 2026 09:45:03 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.3/Folio-0.4.3.dmg" sparkle:edSignature="ENMSVECbZASQ9beL04VJ8/MIDPqLbtq6KtG8PmxyMIunVJW7/VzwlEI4TgXuw5eNUMt2ByEv7VE/XC3o5QHMCA==" length="5988450" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.2</title>
       <sparkle:version>0.4.2</sparkle:version>
       <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
