@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.8</title>
+      <sparkle:version>0.4.8</sparkle:version>
+      <sparkle:shortVersionString>0.4.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Shelf color: with Folio set to Light on a Mac in Dark mode, the picker opened on a near-black color and a dark wheel instead of the shelf's own color.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 14:41:52 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.8/Folio-0.4.8.dmg" sparkle:edSignature="LdrNOpVyGDILVbGcEkhljREFG2GPvmQH7qXXqPvVh9VXJspxysdxosec47YdBABSSrz142NOecmPGuqSVf8hAA==" length="6590896" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.7</title>
       <sparkle:version>0.4.7</sparkle:version>
       <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
