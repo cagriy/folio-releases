@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.10</title>
+      <sparkle:version>0.4.10</sparkle:version>
+      <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Cards show the source app's own icon instead of its initial. An app that is not installed on this Mac keeps the initial. The App categories sheet shows the icons too. *App icons* in Settings › Appearance turns it off.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 15:46:33 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.10/Folio-0.4.10.dmg" sparkle:edSignature="KLhdZIKO1w800kIfO+V7TXNn55hCq1jvVAavfRxeIKdgmZ4wPC8L2VkbVWyUr14ag42OullHT4T/u9QhnVraAw==" length="6619605" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.9</title>
       <sparkle:version>0.4.9</sparkle:version>
       <sparkle:shortVersionString>0.4.9</sparkle:shortVersionString>
