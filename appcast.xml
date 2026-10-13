@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.7</title>
+      <sparkle:version>0.4.7</sparkle:version>
+      <sparkle:shortVersionString>0.4.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Shelf color in Settings › Appearance. The shelf switches between light and dark text to stay readable on the color; *Use default* returns to the system background.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Shelf opacity, Shelf status bar and Shelf over the Dock moved from General to Appearance.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 11:47:34 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.7/Folio-0.4.7.dmg" sparkle:edSignature="Bp7vYiHi3DaMEk8T86E/+8AdC+zPS88lU+KuC70Q9k41a44zd0VH7rOUa34C0UfphCSv+zV0u3tFwGwoKYJAAQ==" length="6586218" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.6</title>
       <sparkle:version>0.4.6</sparkle:version>
       <sparkle:shortVersionString>0.4.6</sparkle:shortVersionString>
