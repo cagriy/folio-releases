@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.5</title>
+      <sparkle:version>0.4.5</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;The sound list in Settings looks like a standard macOS list: rounded box, rounded highlight, no row lines.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 10:51:37 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.5/Folio-0.4.5.dmg" sparkle:edSignature="z8Uk/s9cR5FK9MvUSURn6Z59lugaidWWN283CL/n197xFGhEl57kTGwniOEL4R5MnQZ3OXkb+QJYSOCS/53zBg==" length="6563706" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.4</title>
       <sparkle:version>0.4.4</sparkle:version>
       <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
