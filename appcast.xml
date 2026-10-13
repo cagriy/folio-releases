@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.4</title>
+      <sparkle:version>0.4.4</sparkle:version>
+      <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Copy sound: ten new sounds (Click, Snip, Latch, Flick, Stitch, Flutter, Bubble, Bloom, Neon, Chime) replace the previous five and are chosen from a list in Settings; selecting one plays it. A previous Tick, Pop or Wood choice becomes Click.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 10:02:51 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.4/Folio-0.4.4.dmg" sparkle:edSignature="6WHFi+U/KD6f2LY3AC7xggVIkM9lryZnQQU5XZXqmXCOYdQSLDpqmSR7b1O9XP1Ucj9ovH3ORrHYTpwJ+8ddBg==" length="6547224" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.3</title>
       <sparkle:version>0.4.3</sparkle:version>
       <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
