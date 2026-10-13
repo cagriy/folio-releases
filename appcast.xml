@@ -5,6 +5,16 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.11</title>
+      <sparkle:version>0.4.11</sparkle:version>
+      <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Added&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;App icon. Finder, the update dialog and System Settings no longer show a generic one.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Tue, 13 Oct 2026 17:12:17 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.11/Folio-0.4.11.dmg" sparkle:edSignature="CdT3BnjvBwo7hUwLaR4n9s0Myu78ro4T7vISPTtIaw0SDyCEu3m9IwZvm4k5Z6fvxYxpZgXnkF9dQYEu8WRJAw==" length="7408964" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.10</title>
       <sparkle:version>0.4.10</sparkle:version>
       <sparkle:shortVersionString>0.4.10</sparkle:shortVersionString>
