@@ -5,6 +5,18 @@
     <link>https://raw.githubusercontent.com/cagriy/folio-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Folio 0.4.12</title>
+      <sparkle:version>0.4.12</sparkle:version>
+      <sparkle:shortVersionString>0.4.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;h3&gt;Changed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;⌘C and *Copy* on a card play the copy sound.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;Fixed&lt;/h3&gt;
+&lt;ul&gt;&lt;li&gt;Confirm change, Edit clip and pinboard dialogs no longer push the shelf up. They open in a window of their own over the shelf.&lt;/li&gt;&lt;/ul&gt;</description>
+      <pubDate>Fri, 16 Oct 2026 16:55:28 +0000</pubDate>
+      <enclosure url="https://github.com/cagriy/folio-releases/releases/download/v0.4.12/Folio-0.4.12.dmg" sparkle:edSignature="yY9S6VYlWCO4U3wn0WL/DRFrAoHFsuAGgM8Agff/B9PnRFXb68Xkf57gkPsTBe0A2OKYNCL0F+wUQ8G+wQA3BQ==" length="7432632" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Folio 0.4.11</title>
       <sparkle:version>0.4.11</sparkle:version>
       <sparkle:shortVersionString>0.4.11</sparkle:shortVersionString>
